@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <BuildWithMSBuildOnMono>false</BuildWithMSBuildOnMono>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <NoStdLib>false</NoStdLib>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <NoStdLib>false</NoStdLib>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\source\repos\lab12__2\lab12__2\lab12__2.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="ClassLibrary1">
+      <HintPath>..\..\..\..\..\source\repos\lab10\ClassLibrary1\obj\Debug\net8.0\ref\ClassLibrary1.dll</HintPath>
+    </Reference>
+    <Reference Include="lab10">
+      <HintPath>..\..\..\..\..\source\repos\lab10\lab10\obj\Debug\net8.0\lab10.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

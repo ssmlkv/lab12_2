@@ -1,0 +1,40 @@
+/Users/nikitamalkov/Desktop/lab10/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.csproj.AssemblyReference.cache
+/Users/nikitamalkov/Desktop/lab10/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitamalkov/Desktop/lab10/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.AssemblyInfoInputs.cache
+/Users/nikitamalkov/Desktop/lab10/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.AssemblyInfo.cs
+/Users/nikitamalkov/Desktop/lab10/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.csproj.CoreCompileInputs.cache
+/Users/nikitamalkov/Desktop/lab10/ClassLibrary1/bin/Debug/net7.0/ClassLibrary1.deps.json
+/Users/nikitamalkov/Desktop/lab10/ClassLibrary1/bin/Debug/net7.0/ClassLibrary1.dll
+/Users/nikitamalkov/Desktop/lab10/ClassLibrary1/bin/Debug/net7.0/ClassLibrary1.pdb
+/Users/nikitamalkov/Desktop/lab10/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.dll
+/Users/nikitamalkov/Desktop/lab10/ClassLibrary1/obj/Debug/net7.0/refint/ClassLibrary1.dll
+/Users/nikitamalkov/Desktop/lab10/ClassLibrary1/obj/Debug/net7.0/ClassLibrary1.pdb
+/Users/nikitamalkov/Desktop/lab10/ClassLibrary1/obj/Debug/net7.0/ref/ClassLibrary1.dll
+C:\Users\ndmal\OneDrive\Рабочий стол\lab12\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\ndmal\OneDrive\Рабочий стол\lab12\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndmal\OneDrive\Рабочий стол\lab12\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\ndmal\OneDrive\Рабочий стол\lab12\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\ndmal\OneDrive\Рабочий стол\lab12\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ndmal\OneDrive\Рабочий стол\lab12\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.dll
+C:\Users\ndmal\OneDrive\Рабочий стол\lab12\lab10\ClassLibrary1\obj\Debug\net7.0\refint\ClassLibrary1.dll
+C:\Users\ndmal\OneDrive\Рабочий стол\lab12\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.pdb
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\bin\Debug\net7.0\lab12__2.deps.json
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\bin\Debug\net7.0\lab12__2.runtimeconfig.json
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\bin\Debug\net7.0\lab12__2.exe
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.dll
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\bin\Debug\net7.0\lab10.dll
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\bin\Debug\net7.0\lab12__2.dll
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\bin\Debug\net7.0\lab12__2.pdb
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\bin\Debug\net7.0\lab10.pdb
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.csproj.CopyComplete
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.dll
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\obj\Debug\net7.0\refint\ClassLibrary1.dll
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\obj\Debug\net7.0\ClassLibrary1.pdb
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.deps.json
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\bin\Debug\net7.0\ClassLibrary1.pdb
+C:\Users\ndmal\source\repos\lab12__2\lab10\ClassLibrary1\obj\Debug\net7.0\ref\ClassLibrary1.dll

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab10.IdNumber">
+    <Position X="3.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAEgAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Carriage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab10.Carriage" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAAAAACAQAQEgEAEAAAAAACEAAAAAAACABAAAhA=</HashCode>
+      <FileName>Carriage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="lab10.DiningWagon" Collapsed="true">
+    <Position X="8.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAgAQAAACAAAAAAAAAAAQAAAAEAAAAAAACAAABAgA=</HashCode>
+      <FileName>DiningWagon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab9.Discipline">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAIAAAACAAAAFhBAAIQQAAgAEAAAAAABCAAEAFQA=</HashCode>
+      <FileName>Discipline.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="lab10.FreightWagon" Collapsed="true">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAACAAAAUgAAAAACAAAAEgAAAEAACAAAAAAA=</HashCode>
+      <FileName>FreightWagon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab10.PassengerWagon" Collapsed="true">
+    <Position X="9.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAgAAAAACAAAQAgAAAIACAACAEAAAAAAACABABAAA=</HashCode>
+      <FileName>PassengerWagon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ClassLibrary1.SortByNumberSeats">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>SortByNumberSeats.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="ClassLibrary1.IInit">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Interface1.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

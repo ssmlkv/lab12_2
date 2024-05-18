@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibrary1">
+      <HintPath>..\..\lab10\ClassLibrary1\bin\Debug\net8.0\ClassLibrary1.dll</HintPath>
+    </Reference>
+    <Reference Include="lab10">
+      <HintPath>..\..\lab10\lab10\obj\Debug\net8.0\lab10.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
